@@ -3,7 +3,6 @@
 // refrigerante/ agua - 1000ml por pessoa + 6 horas - 1500ml
 
 // crianças valem por 0,5
-// feito atraves do curso
 
 let inputAdultos = document.getElementById("adultos");
 let inputCriancas = document.getElementById("criancas");
