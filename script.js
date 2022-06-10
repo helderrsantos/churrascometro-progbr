@@ -1,3 +1,5 @@
+// projeto orientado - curso programador Br
+
 // carne - 400gr por pessoa + de 6 horas - 650gr
 // cerveja - 1200 ml por pessoa + 6 horas - 2000ml
 // refrigerante/ agua - 1000ml por pessoa + 6 horas - 1500ml
